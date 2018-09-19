@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ lab\ 820.\r\n\r\n\ @author\ (cspackman)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Student()
+comment1.text=\r\n\ Large\ Math\ problem\ is\ caculation\ of\ my\ gpa\r\n
+comment10.params=
+comment10.target=void\ StuObjects()
+comment2.params=sn
+comment2.target=void\ setsnumber(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int\ getsnumber()
+comment4.params=Status
+comment4.target=void\ setsActive(boolean)
+comment5.params=
+comment5.target=boolean\ getsActive()
+comment6.params=GPA
+comment6.target=void\ set(double)
+comment7.params=
+comment7.target=double\ getsGPA()
+comment8.params=
+comment8.target=void\ names()
+comment9.params=
+comment9.target=void\ stunum()
+numComments=11
