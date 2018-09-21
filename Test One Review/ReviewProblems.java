@@ -16,10 +16,11 @@ public class ReviewProblems
         int nums[]; 
         nums = new int[10];
         for(x=0; x<nums.length; x++){// load array loding same number?
-            nums[x] = (int) (Math.random()*10+1) ;
+            nums[x] = (int) (Math.random()*10) ;
         }
+        
         for (i=0; i<nums.length; i++){ //traverse array????
-            System.out.println (nums[y]);
+            System.out.println (nums[i]);
         }
     }
 
@@ -50,7 +51,7 @@ public class ReviewProblems
             nums[x] = (int) (Math.random()*10+1) ;
         }
         for(w=0; w<10; w++) {
-            Nnums[i] = nums[x];
+            Nnums[w] = nums[w];
             x++;
         }
         System.out.println(Arrays.toString(nums)); 
