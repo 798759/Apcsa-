@@ -7,11 +7,11 @@
  */
 public class Problem8
 {
-    public void Sum(){
-        int nums[];
-        nums= new int[10];
+    public static void Sum(){
+//         int nums[];
+//         nums= new int[10];
         int sum=0;
-        int[] intnums={1,3,4,5,6,5,5,5,4,2};
+        int[] nums = {1,3,4,5,6,5,5,5,4,2};
         for(int x =0; x<nums.length; x++){
             sum = sum + nums[x];
         }
