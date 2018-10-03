@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Problem10
+comment0.text=\n\ Write\ a\ description\ of\ class\ Problem10\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x
+comment1.target=Problem10(int)
+comment2.params=
+comment2.target=int\ getNum()
+numComments=3

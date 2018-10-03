@@ -9,18 +9,19 @@ public class Problem11
 {
      public static void digitsSum(){
          boolean x = true;
-         int nums = 89;
-         int num[];
+         int nums = 8888;// set to what every number you want
          int y =0; 
-         
+         int answer=0; 
          while(x){
-             nums = nums%10;
-             
-             if(nums==0){
+            
+             y = nums%10;//takes off last number
+             nums = nums/10;//removes last number that hass been addded
+             answer= answer+y;// adds numbers together
+             if(nums==0){//breaks loop once digits have been added
                  x = false;
                 }
             }
-            System.out.println(nums);
+            System.out.println(answer);//prints answer
         }
         
     
