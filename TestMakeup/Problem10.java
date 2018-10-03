@@ -9,9 +9,9 @@ public class Problem10// naming Pumpkin problem10
 {
 private int num;
     public  Problem10(int x){
-    num = x;
+    num = x;//inizilizes 
 }
 public int getNum(){
-    return num ;
+    return num ;// getter/setter
 }
 }
