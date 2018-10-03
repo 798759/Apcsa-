@@ -1,36 +1,20 @@
 #BlueJ package file
-<<<<<<< HEAD
-editor.fx.0.height=722
-editor.fx.0.width=800
-editor.fx.0.x=0
-editor.fx.0.y=65
-objectbench.height=227
-objectbench.width=776
+editor.fx.0.height=794
+editor.fx.0.width=720
+editor.fx.0.x=720
+editor.fx.0.y=23
+objectbench.height=117
+objectbench.width=696
 package.divider.horizontal=0.6
-package.divider.vertical=0.5042372881355932
-package.editor.height=231
-package.editor.width=674
-package.editor.x=55
-package.editor.y=107
-package.frame.height=530
-=======
-editor.fx.0.height=738
-editor.fx.0.width=816
-editor.fx.0.x=552
-editor.fx.0.y=141
-objectbench.height=107
-objectbench.width=760
-package.divider.horizontal=0.6
-package.divider.vertical=0.7724550898203593
-package.editor.height=380
-package.editor.width=670
-package.editor.x=25
-package.editor.y=25
-package.frame.height=600
->>>>>>> c932ef7e020af735c49fe51c58629004b5df13bd
-package.frame.width=800
+package.divider.vertical=0.6352941176470588
+package.editor.height=209
+package.editor.width=578
+package.editor.x=0
+package.editor.y=23
+package.frame.height=398
+package.frame.width=720
 package.numDependencies=0
-package.numTargets=6
+package.numTargets=8
 package.showExtends=true
 package.showUses=true
 project.charset=UTF-8
@@ -44,69 +28,54 @@ target1.name=Problem4
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=80
-<<<<<<< HEAD
-target1.x=90
-=======
-target1.x=130
->>>>>>> c932ef7e020af735c49fe51c58629004b5df13bd
+target1.x=170
 target1.y=10
 target2.height=50
 target2.name=Problem3
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=80
-<<<<<<< HEAD
-target2.x=180
-target2.y=10
-=======
 target2.x=70
-target2.y=70
->>>>>>> c932ef7e020af735c49fe51c58629004b5df13bd
+target2.y=10
 target3.height=50
-target3.name=Runner
+target3.name=Problem6
 target3.showInterface=false
 target3.type=ClassTarget
 target3.width=80
-<<<<<<< HEAD
-target3.x=470
-target3.y=30
-=======
-target3.x=160
-target3.y=70
->>>>>>> c932ef7e020af735c49fe51c58629004b5df13bd
+target3.x=270
+target3.y=10
 target4.height=50
-target4.name=Problem6
+target4.name=Problem10
 target4.showInterface=false
 target4.type=ClassTarget
-target4.width=80
-<<<<<<< HEAD
-target4.x=70
-target4.y=70
-=======
-target4.x=10
-target4.y=130
->>>>>>> c932ef7e020af735c49fe51c58629004b5df13bd
+target4.width=90
+target4.x=150
+target4.y=120
 target5.height=50
-target5.name=Problem7needhelp
+target5.name=Problem11
 target5.showInterface=false
 target5.type=ClassTarget
-target5.width=140
-<<<<<<< HEAD
-target5.x=280
-target5.y=100
-=======
-target5.x=100
+target5.width=90
+target5.x=480
 target5.y=130
->>>>>>> c932ef7e020af735c49fe51c58629004b5df13bd
 target6.height=50
-target6.name=Problem8
+target6.name=g
 target6.showInterface=false
 target6.type=ClassTarget
 target6.width=80
-<<<<<<< HEAD
-target6.x=180
-target6.y=150
-=======
-target6.x=10
-target6.y=190
->>>>>>> c932ef7e020af735c49fe51c58629004b5df13bd
+target6.x=380
+target6.y=250
+target7.height=50
+target7.name=Problem8
+target7.showInterface=false
+target7.type=ClassTarget
+target7.width=80
+target7.x=470
+target7.y=10
+target8.height=50
+target8.name=Problem7
+target8.showInterface=false
+target8.type=ClassTarget
+target8.width=80
+target8.x=370
+target8.y=10
