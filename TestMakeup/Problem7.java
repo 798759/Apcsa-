@@ -6,27 +6,27 @@
  * @version (a version number or a date)
  */
 import java.util.Arrays;
-public class Problem7needhelp
+public class Problem7
 {
     public  static void average(){
          int x=0;
-         int nums[];
+         int[] nums = {1,3,4,5,6,5,5,5,4,2};
          int length = 0;
-          nums = new int[length];
+         
            int w=0;
          for(int i=0; i < nums.length; i++){
             nums[i] = (int)(Math.random()*10 +1) ;
         }
-        x=0;
-        System.out.println(Arrays.toString(nums));
+        
         
 
         for(int i=0; i<nums.length; i++){
              w= w+nums[i];
              
             }
-        System.out.println(w);
-            //return w;
+        w = w/10;
+            System.out.println(w);
+            
         
         
     }
