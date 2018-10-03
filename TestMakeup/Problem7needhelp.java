@@ -8,7 +8,7 @@
 import java.util.Arrays;
 public class Problem7needhelp
 {
-    public  static double average(){
+    public  static void average(){
          int x=0;
          int nums[];
          int length = 0;
@@ -26,7 +26,7 @@ public class Problem7needhelp
              
             }
         System.out.println(w);
-            return w;
+            //return w;
         
         
     }
