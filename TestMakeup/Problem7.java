@@ -21,11 +21,11 @@ public class Problem7
         
 
         for(x=0; x<nums.length; x++){
-             w= w+nums[x];
+             w= w+nums[x];// adds up array
              
             }
-        w = w/x;
-            System.out.println(w);
+        w = w/x;// finds average 
+            System.out.println(w);// prints average
             
         
         
