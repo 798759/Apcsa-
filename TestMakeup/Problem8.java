@@ -11,9 +11,9 @@ public class Problem8
 //         int nums[];
 //         nums= new int[10];
         int sum=0;
-        int[] nums = {1,3,4,5,6,5,5,5,4,2};
+        int[] nums = {1,3,4,5,6,5,5,5,4,2};// loads array numbers do not matter
         for(int x =0; x<nums.length; x++){
-            sum = sum + nums[x];
+            sum = sum + nums[x];// adds up numbers in an array
         }
         System.out.println(sum);
     }

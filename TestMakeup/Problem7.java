@@ -14,18 +14,18 @@ public class Problem7
          int length = 0;
          
            int w=0;
-         for(int i=0; i < nums.length; i++){
-            nums[i] = (int)(Math.random()*10 +1) ;
+         for(x=0; x< nums.length; x++){
+            nums[x] = (int)(Math.random()*10 +1) ;
         }
         
         
 
-        for(int i=0; i<nums.length; i++){
-             w= w+nums[i];
+        for(x=0; x<nums.length; x++){
+             w= w+nums[x];// adds up array
              
             }
-        w = w/10;
-            System.out.println(w);
+        w = w/x;// finds average 
+            System.out.println(w);// prints average
             
         
         
