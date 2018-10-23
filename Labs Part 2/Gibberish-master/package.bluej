@@ -2,6 +2,7 @@
 dependency1.from=Runner
 dependency1.to=Gibberish
 dependency1.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=1056
 editor.fx.0.width=1936
 editor.fx.0.x=-8
@@ -12,6 +13,18 @@ package.divider.horizontal=0.6
 package.divider.vertical=0.8323353293413174
 package.editor.height=410
 package.editor.width=670
+=======
+editor.fx.0.height=562
+editor.fx.0.width=982
+editor.fx.0.x=458
+editor.fx.0.y=304
+objectbench.height=168
+objectbench.width=776
+package.divider.horizontal=0.6
+package.divider.vertical=0.6771217712177122
+package.editor.height=360
+package.editor.width=674
+>>>>>>> 867b57de0993af426b6ca5c09668d2170801ca24
 package.editor.x=282
 package.editor.y=285
 package.frame.height=600
